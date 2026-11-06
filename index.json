@@ -1,0 +1,11 @@
+{
+  "org": "scipy",
+  "repo": "scipy_doctest",
+  "versions": [
+    {
+      "commit": "1bcadb1d88737182c80a75a402d01de129928ea5",
+      "tag": "",
+      "parsed_at": "2026-11-06T09:01:40.907862+00:00"
+    }
+  ]
+}
