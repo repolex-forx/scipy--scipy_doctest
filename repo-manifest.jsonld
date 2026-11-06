@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/scipy/scipy_doctest/commit/1bcadb1d88737182c80a75a402d01de129928ea5",
       "git:hexsha": "1bcadb1d88737182c80a75a402d01de129928ea5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T09:01:40.907374+00:00"
     },
     {
       "@id": "https://repolex.ai/r/scipy/scipy_doctest/commit/9a5ce037f5dd26e93c0f44dcb9f140f51a7436a1",
